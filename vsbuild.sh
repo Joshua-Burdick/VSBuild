@@ -13,7 +13,7 @@ PROJECT_GUID=$(uuidgen | tr 'a-f' 'A-F')
 
 # Create the directory structure
 mkdir -p "$PROJECT_NAME/$PROJECT_NAME/Source Files"
-#mkdir -p "$PROJECT_NAME/x64/Debug"
+mkdir -p "$PROJECT_NAME/x64/Debug"
 
 # Copy the source files
 cp "$SOURCE_DIR"/*.cpp "$PROJECT_NAME/$PROJECT_NAME/Source Files"
