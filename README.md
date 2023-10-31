@@ -1,5 +1,5 @@
 # VSBuild
-A C++ Visual Studio Project Builder, created with the help of ChatGPT
+A C++ Visual Studio Project Builder for Unix-based systems, created with the help of ChatGPT
 
 ## Running the Script
 Once you have downloaded the script, you can use it to convert simple C++ projects into Visual Studio projects.
