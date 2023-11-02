@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Check for the correct number of arguments
 if [ "$#" -ne 2 ]; then
     echo "Usage: $0 <source_directory> <project_name>"
